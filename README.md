@@ -9,6 +9,10 @@ The main goal of this churn analysis project is to assist the telecommunication 
 ## DATASETS
 All datasets are included in this repository.
 
+## About model
+Our model contains the column transformer used for scaling and encodeing so there will be no need to use the 'col_pipe' to transform the inputs,just using the best model will automatically do the scaling and encoding.
+
+
 ## Summary
 
  | Project's Name | Published Article  | Deployed PowerBi |
